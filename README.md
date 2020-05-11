@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React Advice App
+
+This app displays a new piece of adice each time the user clicks on the 'GET ADVICE' button. The app generates new advice by using the 'Advice Slip JSON' API.
+
+View my app on Netlify: https://christiaan-venter-advice.netlify.app/
+
+# What I Learned
+
+- Working with React.js
+- Using API's
+
 ## Available Scripts
 
 In the project directory, you can run:
